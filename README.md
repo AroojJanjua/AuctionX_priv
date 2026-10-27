@@ -7,9 +7,37 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Live Website
+
+[Visit AuctionX](https://www.auctionx.site/)
+
 ## Demo Video
 
 [▶️ AuctionX Functional Flow Demo](https://drive.google.com/file/d/16_ZkTLopAJ4E8OINJ_zzBo9VDlua6bL8/view?usp=sharing)
+
+## Pages Screenshots
+
+![Home Page](screenshots/home.png)
+![Filtering](screenshots/filtering.png)
+![Profile](screenshots/profile.png)
+![Bidding](screenshots/biddingAlongAntiSnipping.png)
+![Checkout](screenshots/checkout.png)
+![Payment Status](screenshots/paymentStatus.png)
+
+### Admin Pages
+
+![Admin Dashboard](screenshots/adminDashboard.png)
+![Auction Management](screenshots/auctionManage.png)
+![User Management](screenshots/userManage.png)
+![Bid Management](screenshots/bidManage.png)
+![Payment Management](screenshots/paymentManage.png)
+![Admin](screenshots/report.png)
+
+### Seller Pages
+
+![Seller Dashboard](screenshots/sellerDashboard.png)
+![Seller Earning](screenshots/sellerEarning.png)
+![Delivery Detail](screenshots/deliveryDetail.png)
 
 ## About Laravel
 
